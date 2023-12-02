@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Omar
-- 👀 I’m interested in Python for Data Science (basics atm)
+- 👋 Hi, I’m Omar, a 15 y/o.
+- 👀 I’m interested in Python for Data Science (basics atm).
 - 🏫 I'm a high schooler in Dubai.
 - 📫 Reach out to me at omarmse123@outlook.com
 
