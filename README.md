@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar, a 16 y/o.
+- 👋 Hi, I’m Omar, a 17 y/o.
 - 👀 I’m interested in Data Science.
 - 🏫 I'm a high schooler in Dubai.
 - 📫 Reach out to me at omarmse123@outlook.com
